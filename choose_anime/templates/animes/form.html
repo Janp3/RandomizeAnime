@@ -1,0 +1,13 @@
+
+{% include 'animes/head.html' %}
+<div class="container">
+    <form class="form-container container"action="." method="post">
+        <h1>Cadastrar novo anime</h1>
+        {% csrf_token %}
+        {{ form }}
+    <button type="submit">Salvar</button>
+    </form>
+</div>
+{% include 'animes/footer.html' %}
+</body>
+</html>

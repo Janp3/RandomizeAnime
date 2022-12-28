@@ -1,0 +1,22 @@
+{% include 'animes/head.html' %}
+<body>
+    <main class="container">
+        <h1>Animes já adicionados</h1>
+        <div class="table-container">
+            <table border="1">
+                <tr>
+                    <td class="title-1">Título</td>
+                    <td class="title">Categoria</td>
+                </tr>
+                {% for a in anime %}
+                    <tr>
+                        <td>{{ a.title }}</td>
+                        <td>{{ a.category }}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </main>
+{% include 'animes/footer.html' %}
+</body>
+</html>
