@@ -5,8 +5,11 @@
 <p> Let me explain for you step by step how the system works. </p>
 <h2>1. Registering what you want </h2>
 <p>Here you can register what you want watch </p>
-<img src="https://user-images.githubusercontent.com/91334679/210460722-667aa9f0-fa01-4d82-a8b0-76117d5a0975.png" height="600px>
+<img src="https://user-images.githubusercontent.com/91334679/210460722-667aa9f0-fa01-4d82-a8b0-76117d5a0975.png">
 
 <h2>2. See what's in the list</h2>
 <p>There is come a list of datas to show what is registered in the database, which category is the content, etc. </p>
-<img src="https://user-images.githubusercontent.com/91334679/210460954-8cc328f5-548f-42e1-9b44-f490029c3162.png" width="600" height="600">
+<img src="https://user-images.githubusercontent.com/91334679/210460954-8cc328f5-548f-42e1-9b44-f490029c3162.png" width="500" height="600"/>
+
+<h2>3. Then finaly you can click in "Qual anime assistir?" and randomly an anime will be show for you</h2>
+<img src="https://user-images.githubusercontent.com/91334679/210461375-39f58653-9193-4574-8b08-251e4995bfdb.png"/>
